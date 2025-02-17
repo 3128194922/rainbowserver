@@ -1,0 +1,5 @@
+#Sun Oct 27 18:03:12 CST 2024
+Haze_amount=0.6
+TOD_Fog_mult=0.5
+WAVY_SPEED=0.5
+WAVY_STRENGTH=0.5
